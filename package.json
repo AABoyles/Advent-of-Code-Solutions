@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AABoyles/AoC17/issues"
   },
-  "homepage": "https://github.com/AABoyles/AoC17#readme"
+  "homepage": "https://github.com/AABoyles/AoC17#readme",
+  "dependencies": {
+    "fs-jetpack": "^1.2.0"
+  }
 }
